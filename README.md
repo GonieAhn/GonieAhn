@@ -15,6 +15,7 @@
   - BigData Planning Team
 
 - **LG Electronics - 19.08 ~ 21.10**
+  - LG Professional Instructor, Data Scientist 
   - BigDataScience TP, AI BigData Team, CDO - 21.07 ~ 21.10
   - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
