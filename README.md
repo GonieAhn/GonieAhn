@@ -18,6 +18,15 @@
   - BigDataScience TP, AI BigData Team, CDO - 21.07 ~ 21.10
   - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
+- **KOREA Univ - 17.08 ~ 19.08**
+  - M.S Student in Industrial Management Engineering, Data Mining & Quality Analytics Lab
+  - Adviser: Prof.Seoung Bum Kim
+  - Research Activities
+    - 3 accepted paper, 1 working paper
+    - 3 domestic presentations
+    - 7 project experiences
+    - 2 honors & awards
+
 - **DONGHEE Industrial - 16.06 ~ 17.03**
   - Overseas Internship - Cesky Tesin, Ostrava, Czech Republic
   - Department: Production Management
