@@ -10,7 +10,7 @@
 - Critical feature selection using deep learning for high-dimensional data
 
 ### _EMPLOYMENT HISTROY_
-- ** ShinhanCard - 21.10 ~ **
+- **ShinhanCard - 21.10 ~ present**
   - BigData Planning Team
 
 - **LG Electronics - 19.08 ~ 21.10**
