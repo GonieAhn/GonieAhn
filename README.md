@@ -1,7 +1,7 @@
 # Gonie Ahn
 ### _Born To Be Data Scientist_
 <a href="http://dmqa.korea.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/DMQA-DC143C?style&logo=Meteor&logoColor=white"/></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-#EA4335?style&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-EA4335?style&logo=Gmail&logoColor=white"/></a>
 
 
 
