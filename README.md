@@ -9,13 +9,14 @@
 - Explainable artificial intelligence for real world problem solving
 - Critical feature selection using deep learning for high-dimensional data
 
+
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
   - BigData Planning Team
 
 - **LG Electronics - 19.08 ~ 21.10**
   - BigDataScience TP, AI BigData Team, CDO - 21.07 ~ 21.10
-  - manufacturing intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
+  - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
 - **DONGHEE Industrial - 16.06 ~ 17.03**
   - Overseas Internship - Cesky Tesin, Ostrava, Czech Republic
