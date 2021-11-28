@@ -10,7 +10,7 @@
 - Critical feature selection using deep learning for high-dimensional data
 
 ### _SKILLS_
-
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style&logo=Instagram&logoColor=white"/></a> 
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
