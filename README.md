@@ -9,6 +9,8 @@
 - Explainable artificial intelligence for real world problem solving
 - Critical feature selection using deep learning for high-dimensional data
 
+### _SKILLS_
+
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
