@@ -24,7 +24,7 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style&logo=Splunk&logoColor=white"/></a>
 
 ### _EMPLOYMENT HISTROY_
-- **Shinhan Card - 21.10 ~ present**
+- **Shinhan Card - 21.10 ~ present **
   - BigData Planning Team, BigData R&D Center, LI
 
 - **LG Electronics - 19.08 ~ 21.10**
