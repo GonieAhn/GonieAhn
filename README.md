@@ -11,6 +11,7 @@
 
 ### _SKILLS_
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white"/></a> 
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/scikit-learn-F7931E?style&logo=scikit-learn&logoColor=white"/></a> 
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
