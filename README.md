@@ -3,7 +3,6 @@
 <a href="http://dmqa.korea.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/DMQA-DC143C?style&logo=Meteor&logoColor=white"/></a> 
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-EA4335?style&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/goniiieee/" target="_blank"><img src="https://img.shields.io/badge/goniiieee-43B02A?style&logo=Instagram&logoColor=white"/></a>
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/Coin_Lover-000000?style&logo=Bitcoin&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGonieAhn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### _RESEARCH INTERESTS_
