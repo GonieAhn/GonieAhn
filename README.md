@@ -16,7 +16,8 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style&logo=Keras&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style&logo=R&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/AWS S3-569A31?style&logo=Amazon S3&logoColor=white"/></a>
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style&logo=Google Cloud&logoColor=white"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style&logo=Google Cloud&logoColor=white"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/SQL-F80000?style&logo=Oracle&logoColor=white"/></a>
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
