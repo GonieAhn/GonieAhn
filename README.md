@@ -1,5 +1,5 @@
 # Gonie Ahn
-### _Born To Be Data Scientist_
+### _Born To Be Data Scientist 🌱_
 <a href="http://dmqa.korea.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/DMQA-DC143C?style&logo=Meteor&logoColor=white"/></a> 
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-EA4335?style&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/goniiieee/" target="_blank"><img src="https://img.shields.io/badge/goniiieee-43B02A?style&logo=Instagram&logoColor=white"/></a> 
@@ -24,7 +24,7 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style&logo=Splunk&logoColor=white"/></a>
 
 ### _EMPLOYMENT HISTROY_
-- **ShinhanCard - 21.10 ~ present**
+- **Shinhan Card - 21.10 ~ present**
   - BigData Planning Team, BigData R&D Center, LI
 
 - **LG Electronics - 19.08 ~ 21.10**
