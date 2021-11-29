@@ -1,6 +1,5 @@
 # Gonie Ahn
 ### _Born To Be Data Scientist 🌱_
-#### _Garbage In Garbage Out_
 <a href="http://dmqa.korea.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/DMQA-DC143C?style&logo=Meteor&logoColor=white"/></a> 
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-EA4335?style&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/goniiieee/" target="_blank"><img src="https://img.shields.io/badge/goniiieee-43B02A?style&logo=Instagram&logoColor=white"/></a> 
@@ -47,6 +46,7 @@
   - Department: Production Management
   - Appreciation Award Plaque
 
+#### _**G**arbage **I**n **G**arbage **O**ut🤙_
 
 <!--
 **GonieAhn/GonieAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
