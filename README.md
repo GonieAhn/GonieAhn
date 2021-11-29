@@ -16,6 +16,7 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Scikit_learn-F7931E?style&logo=scikit-learn&logoColor=white"/></a> 
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style&logo=TensorFlow&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style&logo=Keras&logoColor=white"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style&logo=PyTorch&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style&logo=R&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/AWS S3-569A31?style&logo=Amazon S3&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style&logo=Google Cloud&logoColor=white"/></a>
