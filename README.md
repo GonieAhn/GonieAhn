@@ -8,6 +8,7 @@
 ### _RESEARCH INTERESTS_
 - Explainable artificial intelligence for real world problem solving
 - Critical feature selection using deep learning for high-dimensional data
+- Tree-based interpretable machine learning for big data
 
 ### _SKILLS_
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white"/></a> 
