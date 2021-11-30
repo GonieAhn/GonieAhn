@@ -36,14 +36,15 @@
   - M.S Student in Industrial Management Engineering, Data Mining & Quality Analytics Lab
   - Adviser: Prof.Seoung Bum Kim
   - Research Activities
-    - 3 accepted paper, 1 working paper
+    - 3 accepted papers
     - 3 domestic presentations
     - 7 project experiences
     - 2 honors & awards
 
-- **DONGHEE Industrial - 16.06 ~ 17.03**
+- **DH Industrial - 16.06 ~ 17.03**
   - Overseas Internship - Cesky Tesin, Ostrava, Czech Republic
   - Department: Production Management
+  - SAP: MM, SD
   - Appreciation Award Plaque
 
 <!--
