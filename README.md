@@ -41,7 +41,7 @@
     - 7 project experiences
     - 2 honors & awards
 
-- **DH Industrial - 16.06 ~ 17.03**
+- **DH Industrial - 16.06 ~ 17.03 **
   - Overseas Internship - Cesky Tesin, Ostrava, Czech Republic
   - Department: Production Management
   - SAP: MM, SD
