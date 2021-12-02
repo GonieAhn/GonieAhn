@@ -1,4 +1,4 @@
-# Gonie Ahn
+# Gonie. Ahn
 ### _Born To Be Data Scientist 🌱 - Garbage In Garbage Out🤙_
 <a href="http://dmqa.korea.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/DMQA-DC143C?style&logo=Meteor&logoColor=white"/></a> 
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gonie32@gmail.com-EA4335?style&logo=Gmail&logoColor=white"/></a>
