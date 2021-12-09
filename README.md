@@ -33,7 +33,7 @@
   - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
 - **KOREA Univ - 17.08 ~ 19.08**
-  - M.S Student in Industrial Management Engineering, Data Mining & Quality Analytics Lab
+  - Master of Science degree in Industrial Management Engineering, Data Mining & Quality Analytics Lab
   - Adviser: Prof.Seoung Bum Kim
   - Research Activities
     - 3 accepted papers
