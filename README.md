@@ -39,7 +39,7 @@
     - 3 accepted papers
     - 3 domestic presentations
     - 7 project experiences
-    - 2 honors & awards
+    - [2 honors & awards](http://www.itdaily.kr/news/articleView.html?idxno=92069)
 
 - **DH Industrial - 16.06 ~ 17.03**
   - Overseas Internship - Cesky Tesin, Ostrava, Czech Republic
