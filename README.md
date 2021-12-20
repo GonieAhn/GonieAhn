@@ -29,7 +29,7 @@
 
 - **LG Electronics - 19.08 ~ 21.10**
   - LG Professional Instructor, Data Scientist
-    - [Data Science - Online Course from Gonie](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/) 
+    - [Data Science - Online Course](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/) 
   - BigDataScience TP, AI BigData Team, CDO - 21.07 ~ 21.10
   - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
