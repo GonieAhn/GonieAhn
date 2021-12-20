@@ -28,7 +28,7 @@
   - BigData Planning Team, BigData R&D Center, LI
 
 - **LG Electronics - 19.08 ~ 21.10**
-  - LG Professional Instructor, Data Scientist 
+  - [LG Professional Instructor, Data Scientist](https://github.com/GonieAhn/Data-Science-online-course-from-gonie/blob/main/99_Album.pdf) 
   - BigDataScience TP, AI BigData Team, CDO - 21.07 ~ 21.10
   - Manufacturing Intelligence Task, DXT Center, CTO - 19.08 ~ 21.07
 
