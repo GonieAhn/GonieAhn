@@ -22,6 +22,7 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style&logo=Google Cloud&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style&logo=MySQL&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style&logo=Splunk&logoColor=white"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style&logo=Oracle&logoColor=white"/></a>
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
