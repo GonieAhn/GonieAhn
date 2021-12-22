@@ -23,8 +23,6 @@
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style&logo=MySQL&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style&logo=Splunk&logoColor=white"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style&logo=Oracle&logoColor=white"/></a>
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style&logo=Apache Hadoop&logoColor=white"/></a>
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/HIVE-FDEE21?style&logo=Apache Hive&logoColor=white"/></a>
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
