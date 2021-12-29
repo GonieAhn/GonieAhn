@@ -26,7 +26,7 @@
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
-  - BigData Planning Team, BigData R&D Center, LI
+  - BigData Planning Team, BigData R&D Center, CDO
 
 - **LG Electronics - 19.08 ~ 21.10**
   - LG Professional Instructor, Data Scientist
