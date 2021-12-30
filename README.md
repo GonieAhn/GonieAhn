@@ -7,7 +7,7 @@
 
 ### _RESEARCH INTERESTS_
 - Explainable artificial intelligence for real world problem solving
-- Critical feature selection using deep learning for high-dimensional data
+- Critical sensor selection using deep learning for multi-sensor data
 - Tree-based interpretable machine learning for structured big data
 - Data collection, Loading, Preprocessing, Feature Extraction, Modeling, Validation, Meaning Extraction & Pattern Recognition, Reporting, Decision, Action
 
