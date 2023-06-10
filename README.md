@@ -26,7 +26,7 @@
 
 ### _EMPLOYMENT HISTROY_
 - **ShinhanCard - 21.10 ~ present**
-  - Customer Insight & Marketing Team, Payments - 22.01 ~ 22.12
+  - Customer Insight & Marketing Team, Payments Group - 22.01 ~ 22.12
   - Data Governance Team, BigData R&D Center, CDO - 22.01 ~ 22.12
   - BigData Planning Team, BigData R&D Center, CDO - 21.10 ~ 22.01
 
